@@ -5,7 +5,7 @@ A fork of MetaMask focused on helping the  SOV users
 
 SoundMoneyCoin (SOV) Wallet Browser Extension
 
-Note: Soon we will make available the full code , we are just finishing some changes
+Note: source code available on https://github.com/soundmoneycoin/SovWallet-Browser_Extension
 
 
 
